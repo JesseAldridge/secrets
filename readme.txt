@@ -1,3 +1,6 @@
+Install:  ln secrets /usr/local/bin/secrets
+
+Navigate to the directory where you want to keep your secret documents
 Create a directory called decrypted.
 Put all your secret files in there.
 Run `secrets`.
